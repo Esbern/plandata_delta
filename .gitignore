@@ -1,5 +1,7 @@
 #Local data folder
 data/
+*.gpkg
+*.gpkg-journal
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
